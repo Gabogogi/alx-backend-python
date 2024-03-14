@@ -3,5 +3,5 @@
 
 
 def floor(n: float) -> float:
-    '''Returns te floor of a float'''
+    '''Returns the floor of a float'''
     return int(n)
