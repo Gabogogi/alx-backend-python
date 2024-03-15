@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Takes a takes a list mxd_lst of integers and floats and returns their sum as a float.'''
+'''Takes list mxd_lst of integers/floats returns their sum as a float.'''
 from typing import Union, List
 
 
